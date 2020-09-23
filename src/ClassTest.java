@@ -34,7 +34,7 @@ public class ClassTest {
     public void testGetC() {
     }
 
-    @Test
+    @Deprecated
     public void testTestToString() {
     }
 }
