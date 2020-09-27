@@ -22,7 +22,7 @@ public class Class {
         this.age = age;
         this.a = a;
         this.b = b;
-        this.c = c;
+        this.cCCC = c;
     }
 
 
@@ -46,8 +46,8 @@ public class Class {
         return b;
     }
 
-    public Integer getC() {
-        return c;
+    public Integer getcCCC() {
+        return cCCC;
     }
 
     @Override
@@ -58,7 +58,7 @@ public class Class {
                 ", age=" + age +
                 ", a='" + a + '\'' +
                 ", b='" + b + '\'' +
-                ", c=" + c +
+                ", c=" + cCCC +
                 '}';
     }
 
