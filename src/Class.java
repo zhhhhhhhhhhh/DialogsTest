@@ -19,7 +19,7 @@ public class Class {
         this.age = age;
         this.a = a;
         this.b = b;
-        this.cCCC = c;
+        this.c = c;
     }
 
 
