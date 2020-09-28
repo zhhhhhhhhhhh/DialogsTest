@@ -12,10 +12,13 @@ public class Class {
 
     private final Integer c;
 
+    private final Integer d;
 
-    public Class(String name, String surname, Integer age, String a, String b, Integer c) {
+
+    public Class(String name, String surname, Integer age, String a, String b, Integer c, Integer d) {
         this.name = name;
-        this.surname = surname;
+        this.d = d;
+        this.surname = surname + a+ b;
         this.age = age;
         this.a = a;
         this.b = b;
@@ -43,8 +46,8 @@ public class Class {
         return b;
     }
 
-    public Integer getcCCC() {
-        return cCCC;
+    public Integer getC() {
+        return c;
     }
 
     @Override
@@ -55,7 +58,7 @@ public class Class {
                 ", age=" + age +
                 ", a='" + a + '\'' +
                 ", b='" + b + '\'' +
-                ", c=" + cCCC +
+                ", c=" + c +
                 '}';
     }
 
