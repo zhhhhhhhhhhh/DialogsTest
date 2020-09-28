@@ -46,8 +46,8 @@ public class Class {
         return b;
     }
 
-    public Integer getcCCC() {
-        return cCCC;
+    public Integer getC() {
+        return c;
     }
 
     @Override
@@ -58,7 +58,7 @@ public class Class {
                 ", age=" + age +
                 ", a='" + a + '\'' +
                 ", b='" + b + '\'' +
-                ", c=" + cCCC +
+                ", c=" + c +
                 '}';
     }
 
