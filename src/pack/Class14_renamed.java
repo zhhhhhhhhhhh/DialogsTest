@@ -1,5 +1,6 @@
 package pack;
 
 public class Class14_renamed {
-    public void foo(){}
+    public void fooAAA(){}
+    public int s;
 }
