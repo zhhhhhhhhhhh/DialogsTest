@@ -1,2 +1,4 @@
-package pack;public class Class40 {
+package pack;
+
+public class Class40 {
 }
