@@ -1,2 +1,1 @@
-public class Test123 {
-}
+class Test123

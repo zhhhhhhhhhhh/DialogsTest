@@ -1,4 +1,3 @@
-package pack;
+package pack
 
-public class Class123 {
-}
+class Class123
