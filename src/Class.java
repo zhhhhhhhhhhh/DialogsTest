@@ -12,10 +12,16 @@ public class Class {
 
     private final Integer c;
 
+    private final Integer d;
 
-    public Class(String name, String surname, Integer age, String a, String b, Integer c) {
+    private final String e;
+
+
+    public Class(String name, String surname, Integer age, String a, String b, Integer c, Integer d, String e) {
         this.name = name;
-        this.surname = surname;
+        this.d = d;
+        this.e = e;
+        this.surname = surname + a+ b;
         this.age = age;
         this.a = a;
         this.b = b;
