@@ -1,33 +1,30 @@
 public class Class {
 
-    private final String name;
+    private final String nameRRR;
 
     private final String surname;
 
     private final Integer age;
 
-    private final String a;
+    private final Integer a;
 
     private final String b;
 
     private final Integer c;
 
-    private final Integer d;
 
-
-    public Class(String name, String surname, Integer age, String a, String b, Integer c, Integer d) {
-        this.name = name;
-        this.d = d;
-        this.surname = surname + a+ b;
+    public Class(String name, String surname, Integer age, Integer a, String b, Integer c) {
+        this.nameRRR = name;
+        this.surname = surname;
         this.age = age;
         this.a = a;
         this.b = b;
-        this.cCCC = c;
+        this.c = c;
     }
 
-
-    public String getName() {
-        return name;
+//efwefew
+    public String getNameRRR() {
+        return nameRRR;
     }
 
     public String getSurname() {
@@ -38,7 +35,7 @@ public class Class {
         return age;
     }
 
-    public String getA() {
+    public Integer getA() {
         return a;
     }
 
@@ -53,12 +50,12 @@ public class Class {
     @Override
     public String toString() {
         return "Class{" +
-                "name='" + name + '\'' +
+                "name='" + nameRRR + '\'' +
                 ", surname='" + surname + '\'' +
                 ", age=" + age +
                 ", a='" + a + '\'' +
                 ", b='" + b + '\'' +
-                ", c=" + c +
+                ", cввв=" + c +
                 '}';
     }
 
