@@ -1,5 +1,5 @@
 public class Class10 {
     public static void main(String[] args) {
-        System.out.println("efwfwefwe");
+        System.out.println("кгоу56нг56г");
     }
 }
