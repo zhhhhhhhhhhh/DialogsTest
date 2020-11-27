@@ -1,5 +1,5 @@
 public class Class3_renamed {
     public static void main(String[] args) {
-        System.out.println("ыыауацауау");
+        System.out.println("1111111");
     }
 }
