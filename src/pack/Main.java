@@ -6,8 +6,8 @@ public class Main {
     public static void main(String[] args) {
 
         String str1 = "Hello World";
-        String str2 = "My name is Earl";
-        String str3 = "I love Java";
+        String str2 = "Mtjtrjtrjt";
+        String str3 = "tjrtjrtjrtjurtu";
 
         LinkedList<String> earlBio = new LinkedList<>();
         earlBio.add(str1);
