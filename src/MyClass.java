@@ -1,11 +1,8 @@
-import org.testng.annotations.*;
-
-
 public class MyClass {
     int field;
 
     public static void main(String[] args) {
-        //blaah
+        //rrgergergerg
     }
 
     public int getField() {
