@@ -4,11 +4,19 @@ public class Class {
 
     private final String surname;
 
+    public Integer getD() {
+        return d;
+    }
+
     private final Integer age;
 
     private final String a;
 
     private final Integer c;
+
+    public String getE() {
+        return e;
+    }
 
     private final Integer d;
 
