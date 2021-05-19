@@ -14,6 +14,7 @@ public class Class {
 
     private final Integer c;
 
+    //
     public String getE() {
         return e;
     }
