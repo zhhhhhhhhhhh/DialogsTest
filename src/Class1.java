@@ -1,6 +1,6 @@
 public class Class1 {
     //rerfergergerg
     public static void main(String[] args) {
-        System.out.println("wdweeeeукпуedwedwedкпукaaaaaaeeeqdweded");
+        System.out.println("wd");
     }
 }
