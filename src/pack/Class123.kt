@@ -1,3 +1,1 @@
-package pack
-
-class Class123
+//egeegegege
