@@ -3,7 +3,7 @@ public class Class {
     private final String name;
 
     private final String surname;
-
+//кпукпукпук
     public Integer getD() {
         return d;
     }
@@ -14,6 +14,7 @@ public class Class {
 
     private final Integer c;
 
+    //
     public String getE() {
         return e;
     }
