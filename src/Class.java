@@ -3,11 +3,11 @@ public class Class {
     private final String name;
 
     private final String surname;
-//кпукпукпкrhrhr
+//кпукпукпук
     public Integer getD() {
         return d;
     }
-//yjteyjtyjytj
+
     private final Integer age;
 
     private final String a;
