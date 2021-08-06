@@ -3,5 +3,5 @@ public class Class1 {
         System.out.println("mmmалt35t34tьалаmm");
     }
 
-    //changesgbfgbgbfgbrgegergerg
+    //changesgbfgbgbfgbrgegergergrgergrege
 }
