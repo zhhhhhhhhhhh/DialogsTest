@@ -3,7 +3,7 @@ public class Class {
     private final String name;
 
     private final String surname;
-//кпукпfbdfbdfbукпdvdvdк
+
     public Integer getD() {
         return d;
     }
