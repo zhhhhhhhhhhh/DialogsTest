@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="localization-agent-1.0.01">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/DialogsTest/localization-agent-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
