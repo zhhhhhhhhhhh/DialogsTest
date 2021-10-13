@@ -1,7 +1,7 @@
 public class Class {
 
     private final String name;
-//rgergeg
+
     private final String surname;
 
     public Integer getD() {
