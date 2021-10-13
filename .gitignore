@@ -1,2 +1,5 @@
 /*.patch
 /src/TestIgnore.java
+
+# Project exclude paths
+/out/
