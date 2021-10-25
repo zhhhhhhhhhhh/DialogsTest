@@ -1,5 +1,5 @@
 package gpg;
 
-public class A52 {
+public class A52_renamed {
     //changуацуацаereвgeregfdvdfvgdfgdfgdfvfdbdfbfdfb
 }
