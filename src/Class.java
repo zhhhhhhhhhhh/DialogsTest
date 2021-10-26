@@ -3,7 +3,9 @@ public class Class {
     private final String name;
 
     private final String surname;
-//ewefwef
+    private final String b;
+
+    //ewefwefhtrrhrt
     public Integer getD() {
         return d;
     }
