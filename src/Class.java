@@ -32,7 +32,7 @@ public class Class {
         this.surname = surname + a+ b;
         this.age = age;
         this.a = a;
-      //  this.b = b;
+        this.b = b;
         this.c = c;
     }
 //5hy45y5y45y
@@ -53,9 +53,9 @@ public class Class {
         return a;
     }
 
-//    public String getB() {
-//        return b;
-//    }
+   public String getB() {
+        return b;
+    }
 
     public Integer getC() {
         return c;
@@ -68,7 +68,7 @@ public class Class {
                 ", surname='" + surname + '\'' +
                 ", age=" + age +
                 ", a='" + a + '\'' +
-          //      ", b='" + b + '\'' +
+                ", b='" + b + '\'' +
                 ", c=" + c +
                 '}';
     }
