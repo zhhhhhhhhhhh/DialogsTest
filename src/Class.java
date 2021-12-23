@@ -1,5 +1,5 @@
 public class Class {
-//tjrjrthtrh
+//tjrjrthtrhrgrergerg
     private final String name;
 
     private final String surname;
