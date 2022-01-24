@@ -30,7 +30,7 @@ public class Class {
         this.name = name;
         this.d = d;
         this.e = e;
-        this.surname = surname + a+ b;
+        this.surname = surname + a + b;
         this.age = age;
         this.a = a;
         this.b = b;
@@ -54,9 +54,10 @@ public class Class {
         return a;
     }
 
-   public String getB() {
+    public String getB() {
         return b;
     }
+
     //egwewgwegwegwg
     public Integer getC() {
         return c;
