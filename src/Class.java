@@ -5,7 +5,7 @@ public class Class {
     private final String surname;
     private final String b;
 
-    //master
+    //ewefwefhtrrhrtewfwefwefew
     public Integer getD() {
         return d;
     }
@@ -56,7 +56,7 @@ public class Class {
    public String getB() {
         return b;
     }
-    //fbdrbdrbrfb
+    //egwewgwegwegwg
     public Integer getC() {
         return c;
     }
