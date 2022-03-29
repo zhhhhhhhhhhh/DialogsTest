@@ -1,6 +1,8 @@
 // "Add 'abstract fun foo(x: String = "")' to 'I'" "true"
-interface I
+interface I {
+    fun foo(x: String = "")
+}
 
 class Foo : I {
-    <caret>override fun foo(x: String = "") {}
+    override fun foo(x: String) {}
 }
