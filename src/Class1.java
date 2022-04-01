@@ -4,5 +4,5 @@ public class Class1 {
         System.out.println("mmmалt3efewfew5t34tьалаmm");
     }
 
-    //changesgbfgbgbfgbrgegergergrgcvcxvxcvcxvergregegregrg
+    //changesgbfgbgbfgbrgegergergrgcvcxvxcegsegseesgegevcxvergregegregrg
 }
