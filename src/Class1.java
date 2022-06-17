@@ -1,8 +1,5 @@
 public class Class1 {
-    //rerfergergergwegwegewegweg
     public static void main(String[] args) {
-        System.out.println("master");
+        System.out.println("mmmegfwefwefwefальалаmm");
     }
-
-    //changesgbfgbgbfgbrgegergergrgcvcxvxcegsegseesgegevcxvergregegregrg
 }

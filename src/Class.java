@@ -5,7 +5,7 @@ public class Class {
     private final String surname;
     private final String b;
 
-    //ewefwefhtrrhrtui,liol,ioliolioliolioеткеткет
+    //ewefwefhtrrhrt
     public Integer getD() {
         return d;
     }
@@ -22,7 +22,6 @@ public class Class {
 
     private final Integer d;
 
-    //rgegrgergeg
     private final String e;
 
 
@@ -30,7 +29,7 @@ public class Class {
         this.name = name;
         this.d = d;
         this.e = e;
-        this.surname = surname + a + b;
+        this.surname = surname + a+ b;
         this.age = age;
         this.a = a;
         this.b = b;
@@ -54,11 +53,10 @@ public class Class {
         return a;
     }
 
-    public String getB() {
+   public String getB() {
         return b;
     }
-
-    //egwewgwegwegwg
+    //fbdrbdrbrfb
     public Integer getC() {
         return c;
     }
