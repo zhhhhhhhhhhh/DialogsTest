@@ -56,12 +56,12 @@ public class Class {
     @Override
     public String toString() {
         return "Class{" +
-                "name='" + name + '\'' +
-                ", surname='" + surname + '\'' +
-                ", age=" + age +
-                ", a='" + a + '\'' +
-                ", b='" + b + '\'' +
-                ", c=" + c +
+                "name ='" + name + '\'' +
+                ", surname ='" + surname + '\'' +
+                ", age =" + age +
+                ", a ='" + a + '\'' +
+                ", b ='" + b + '\'' +
+                ", c =" + c +
                 '}';
     }
 
