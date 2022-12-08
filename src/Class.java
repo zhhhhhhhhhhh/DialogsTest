@@ -15,6 +15,7 @@ public class Class {
     private final Integer d;
 
     private final String e;
+    //egvwgewgewg
 
     public Class(String name, String surname, Integer age, String a, String b, Integer c, Integer d, String e) {
         this.name = name;
