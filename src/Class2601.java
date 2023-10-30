@@ -64,7 +64,7 @@ public class Class2601 {
 
     @Override
     public String toString() {
-        return "Class{" +
+        return "packapacka.Class{" +
                 "name='" + name + '\'' +
                 ", surname='" + surname + '\'' +
                 ", age=" + age +
