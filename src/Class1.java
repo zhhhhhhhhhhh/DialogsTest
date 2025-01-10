@@ -1,5 +1,5 @@
 public class Class1 {
-    //wfwqfwqfwqfwgfgr4e3g34tg34twfwrg
+    //wfwqfwqfwqfwgfgr4e3g34tg34twfwrgцукп4цкупкцуп
     public static void main(String[] args) {
         System.out.println("rbegeegwegwewvgwevwevwegewggergerh");
     }
